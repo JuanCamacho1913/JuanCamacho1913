@@ -14,7 +14,7 @@
 👨‍💻 &nbsp;I am Currently Working on personal projects as a Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;Successfully completed the bootcamp at the Argentinian academy Egg.live.\
-✍️ &nbsp;In my free time, I work in shoe design.\
+✍️ &nbsp;In my free time, I shoe design.\
 ✉️ &nbsp;You can shoot me an email at jecb1913@gmail.com
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
