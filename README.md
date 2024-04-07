@@ -20,8 +20,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img height=40px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+<img height=40px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
