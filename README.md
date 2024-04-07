@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="500"/>
+  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="350"/>
 </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
