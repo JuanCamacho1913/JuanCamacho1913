@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Java Backend Developer.\
+👨‍💻 &nbsp;Java Backend Developer, Self-taught and proactive.\
 👨‍💻 &nbsp;I am Currently Working on personal projects as a Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;Successfully completed the bootcamp at the Argentinian academy Egg.live.\
